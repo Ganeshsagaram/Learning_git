@@ -1,2 +1,2 @@
-Testing file< br/ >
+Testing file
 for the newly added features
